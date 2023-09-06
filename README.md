@@ -8,18 +8,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.ardalanh.b8099@gmail.com&su=Subject">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.hoseinmdev@gmail.com&su=Subject">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
                
   </a>
-<a href="https://instagram.com/ardalan.barzanji">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://t.me/ardalan_barzanji">
+<a href="https://t.me/hoseineMahmoudi">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://wa.me/+98034710891?text=Hello!" target="blank">
+<a href="https://wa.me/+989222365685?text=Hello!" target="blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 </p>
