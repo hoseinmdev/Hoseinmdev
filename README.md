@@ -16,7 +16,7 @@
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://wa.me/+989222365685?text=Hello!" target="blank">
+<a href="https://wa.me/+989378151319?text=Hello!" target="blank">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 </p>
