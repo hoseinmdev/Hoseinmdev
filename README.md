@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&duration=3000&pause=1000&color=0AB177&background=53FFDB00&vCenter=true&multiline=true&repeat=false&width=274&height=58&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Front-End+Developer)](https://git.io/typing-svg)
 
-- 👨‍💻 I'm junior front end developer
-- 🌱 I’m currently working on **next.js** 
+- 👨‍💻 I'm front end developer
+- 🌱 I’m everyday working on **Myself** 
 - 📫 How to reach me **hoseinmdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +12,7 @@
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
                
   </a>
-<a href="https://t.me/hoseineMahmoudi">
+<a href="https://t.me/pe3areGol">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
