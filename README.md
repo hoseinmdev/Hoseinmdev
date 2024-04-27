@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&duration=3000&pause=1000&color=0AB177&background=53FFDB00&vCenter=true&multiline=true&repeat=false&width=274&height=58&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Front-End+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 I'm front end developer
-- 🌱 I’m everyday working on **Myself** 
+- 🌱 I everyday work on **Myself** 
 - 📫 How to reach me **hoseinmdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
