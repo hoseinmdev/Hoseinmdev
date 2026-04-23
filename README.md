@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&duration=2000&pause=1000&color=FFFFFF&background=53FFDB00&vCenter=true&multiline=true&repeat=false&width=274&height=58&lines=%F0%9F%91%8B%F0%9F%8F%BB+I'm+Mobin+Mahmoudi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&duration=2000&pause=1000&color=FFFFFF&background=53FFDB00&vCenter=true&multiline=true&repeat=false&width=274&height=58&lines=%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hosein+Mahmoudi)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&duration=3000&pause=1000&color=0AB177&background=53FFDB00&vCenter=true&multiline=true&repeat=false&width=274&height=58&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Front-End+Developer)](https://git.io/typing-svg)
 
