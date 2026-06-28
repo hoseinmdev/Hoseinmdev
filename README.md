@@ -11,6 +11,9 @@
 <a href="https://hosein-mahmoudi.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-%20hosein--mahmoudi.vercel.app%20%E2%86%92-39D353?style=for-the-badge&labelColor=006D32&logoColor=white&logoWidth=20" height="45"/>
 </a>
+<a href="https://hosein-mahmoudi.vercel.app" target="_blank">
+  <img width="100%" src="./image.png" alt="Portfolio Preview"/>
+</a>
 
 > ⚡ Smooth animations · Pixel-perfect UI · Built to impress
 
