@@ -6,8 +6,16 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hosein--mahmoudi.vercel.app-39D353?style=for-the-badge)](https://hosein-mahmoudi.vercel.app)
-&nbsp;
+### 👇 Don't just read — come see what I build
+
+<a href="https://hosein-mahmoudi.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-%20hosein--mahmoudi.vercel.app%20%E2%86%92-39D353?style=for-the-badge&labelColor=006D32&logoColor=white&logoWidth=20" height="45"/>
+</a>
+
+> ⚡ Smooth animations · Pixel-perfect UI · Built to impress
+
+<br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoseinmdev@gmail.com)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TinowTinow)
@@ -22,6 +30,7 @@
 name:        Hosein Mahmoudi
 role:        Front-End Developer
 location:    Remote 🌍
+experience:  2+ Years
 focus:       Next.js · React · TypeScript
 passion:     Animations · Clean Code · Fast UX
 status:      Open to work 🟢
@@ -70,20 +79,20 @@ status:      Open to work 🟢
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoseinmdev&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true&icon_color=39D353&ring_color=39D353"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmdev&layout=compact&theme=github-dark-dimmed&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hoseinmdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=39D353&ring_color=39D353&bg_color=0d1117&title_color=39D353&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hoseinmdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoseinmdev&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoseinmdev&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&background=0d1117"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinmdev&theme=github-compact&hide_border=true&area=true&color=39D353&line=39D353&point=39D353"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinmdev&theme=github-compact&hide_border=true&area=true&color=39D353&line=39D353&point=39D353&bg_color=0d1117"/>
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D32,50:239A3B,100:39D353&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:239A3B,100:006D32&height=120&section=footer"/>
