@@ -30,7 +30,6 @@
 name:        Hosein Mahmoudi
 role:        Front-End Developer
 location:    Remote 🌍
-experience:  2+ Years
 focus:       Next.js · React · TypeScript
 passion:     Animations · Clean Code · Fast UX
 status:      Open to work 🟢
