@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D32,50:239A3B,100:39D353&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Building+cool+things+on+the+web+%F0%9F%9A%80;Next.js+%26+React+Developer;Obsessed+with+animations+%26+clean+code;Open+to+work+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Building+cool+things+on+the+web+%F0%9F%9A%80;Next.js+%26+React+Developer;Obsessed+with+animations+%26+clean+code;Open+to+work+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hosein--mahmoudi.vercel.app-6E40C9?style=for-the-badge)](https://hosein-mahmoudi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hosein--mahmoudi.vercel.app-39D353?style=for-the-badge)](https://hosein-mahmoudi.vercel.app)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoseinmdev@gmail.com)
 &nbsp;
@@ -26,7 +26,7 @@ experience:  2+ Years
 focus:       Next.js · React · TypeScript
 passion:     Animations · Clean Code · Fast UX
 status:      Open to work 🟢
-` `` `
+```
 
 ---
 
@@ -71,30 +71,20 @@ status:      Open to work 🟢
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoseinmdev&show_icons=true&theme=github-dark-dimmed&hide_border=true&count_private=true&icon_color=39D353&ring_color=39D353"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinmdev&layout=compact&theme=github-dark-dimmed&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoseinmdev&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoseinmdev&theme=github-compact&hide_border=true&area=true&color=39D353&line=39D353&point=39D353"/>
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-```
-
-Just replace `YOUR_GITHUB_USERNAME` (3 places) with your actual GitHub username. The things this adds that make it way more beautiful:
-
-- **Animated wave header & footer** via capsule-render
-- **Typing animation** that cycles through different phrases
-- **YAML-style About Me** — very popular and looks super clean
-- **Streak stats card** showing your contribution streak
-- **Activity graph** with area fill in Tokyo Night theme
-- Everything uses the **Tokyo Night** color palette which is one of the most popular aesthetic themes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D32,50:239A3B,100:39D353&height=120&section=footer"/>
