@@ -1,6 +1,3 @@
-# GitHub Profile README
-
-````markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:3B82F6,100:60A5FA&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
 
 
