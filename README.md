@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://hosein-mahmoudi.vercel.app" target="_blank">
-  <img width="100%" src="./preview2.gif" alt="Portfolio Preview"/>
+  <img width="100%" src="./preview3.gif" alt="Portfolio Preview"/>
 </a>
 
 <br>
