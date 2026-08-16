@@ -6,14 +6,17 @@
 
 <br>
 
-### 👇 Don't just read — come see what I build
-
 <a href="https://hosein-mahmoudi.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-%20hosein--mahmoudi.vercel.app%20%E2%86%92-39D353?style=for-the-badge&labelColor=006D32&logoColor=white&logoWidth=20" height="45"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20PORTFOLIO-%20hosein--mahmoudi.vercel.app%20%E2%86%92-38B2AC?style=for-the-badge&labelColor=0284C7&logoColor=white&logoWidth=20" height="45"/>
 </a>
+
+<br>
+
 <a href="https://hosein-mahmoudi.vercel.app" target="_blank">
   <img width="100%" src="./preview2.gif" alt="Portfolio Preview"/>
 </a>
+
+<br>
 <!-- <a href="https://hosein-mahmoudi.vercel.app" target="_blank">
   <img width="100%" src="./image.png" alt="Portfolio Preview"/>
 </a> -->
