@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D32,50:239A3B,100:39D353&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:06B6D4,100:38B2AC&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Building+cool+things+on+the+web+%F0%9F%9A%80;Next.js+%26+React+Developer;Obsessed+with+animations+%26+clean+code;Open+to+work+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Building+cool+things+on+the+web+%F0%9F%9A%80;Next.js+%26+React+Developer;Obsessed+with+animations+%26+clean+code;Open+to+work+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
 ### 👇 Don't just read — come see what I build
 
