@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:06B6D4,100:38B2AC&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D32,50:239A3B,100:39D353&height=180&section=header&text=Hosein%20Mahmoudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descAlignY=55&descAlign=50"/>
+
 
 <div align="center">
 
